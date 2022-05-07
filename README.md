@@ -41,5 +41,5 @@ Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-76190
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tyldanny&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<p style="font-size: 10px; text-align: center;">(PS: I've consolidated all my old organizations and moved everything I ever coded as is with updated author info onto this profile incase you notice any oddities)</p>
+<p style="font-size: 10px !important; text-align: center;">(PS: I've consolidated all my old organizations and moved everything I ever coded as is with updated author info onto this profile incase you notice any oddities)</p>
 <br>
