@@ -30,7 +30,6 @@ Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-76190
         <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img src="">
     </div>
 </p>
 
