@@ -11,9 +11,8 @@ When I'm not working, I like to watch TV, play games with my friends, learn more
 Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-761900239/)):
 * 8+ years of working remotely, running a business, managing a team, documentation, contractors, ect
 * 8+ years of Linux system administration
-* 4+ years of Java development
-* 3+ years of HTML, CSS and basic Javascript
-* 3+ years of PHP
+* 4+ years of Java & MySQL development
+* 3+ years of HTML, CSS, Javascript & PHP
 
 <br>
 
