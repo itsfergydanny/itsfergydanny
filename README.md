@@ -37,8 +37,9 @@ Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-76190
 </h1>
 <p align="left">
   <a href="https://tyldanny.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tyldanny&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tyldanny&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tyldanny&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<p style="font-size: 10px; text-align: center;">(PS: I've consolidated all my old organizations and moved everything I ever coded as is with updated author info onto this profile incase you notice any oddities)</p>
 <br>
