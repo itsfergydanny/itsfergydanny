@@ -2,7 +2,7 @@
   <b>Welcome</b>
 </h1>
 
-Hi, I'm Danny, a 25 year old canadian that's been living off of the internet and self teaching myself valuable skills for over 8 years. Currently working in the Minecraft industry but working towards a non-mc position!
+Hi, I'm Danny, a 25 year old canadian that's been living off of the internet and self teaching myself valuable skills for over 8 years.
 <br>
 <br>
 When I'm not working, I like to watch TV, play games with my friends, learn more about technologies that interest me and on the rare occasion, go for a walk!
