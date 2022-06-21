@@ -36,9 +36,9 @@ Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-76190
   <b>Stats</b>
 </h1>
 <p align="left">
-  <a href="https://tyldanny.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tyldanny&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tyldanny&theme=gruvbox&hide_border=true" />
+  <a href="https://fergydanny.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=itsfergydanny&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfergydanny&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
