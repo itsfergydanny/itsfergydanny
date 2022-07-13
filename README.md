@@ -8,7 +8,7 @@ Hi, I'm Danny, a 25 year old canadian that's been living off of the internet and
 When I'm not working, I like to watch TV, play games with my friends, learn more about technologies that interest me and on the rare occasion, go for a walk!
 <br>
 <br>
-Experience (more info on my [LinkedIn](https://www.linkedin.com/in/danny-f-761900239/)):
+Experience (more info on my [LinkedIn](https://www.linkedin.com/in/fergydanny/)):
 * 8+ years of working remotely, running a business, managing a team, documentation, contractors, ect
 * 8+ years of Linux system administration
 * 4+ years of Java & MySQL development
